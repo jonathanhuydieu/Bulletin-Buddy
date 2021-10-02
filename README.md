@@ -10,7 +10,7 @@
     - Everyone can make posts
 
 ## Medium Goals
-
+    - Scale the app with servers and make it compatible with multiple PaaS modalities
 ## Stretch Goals
 
     - Only Admins can make posts
